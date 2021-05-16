@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b72ac0b9-d7c2-4ef0-9231-2c1976b91269" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.1.102:5555" />
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="17cf443e-e9c0-4804-b101-f3827b389176" />
+  </component>
+  <component name="ProjectId" id="1fNF3DCr0xP4fMITrD77nyS6E1w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b72ac0b9-d7c2-4ef0-9231-2c1976b91269" name="Default Changelist" comment="" />
+      <created>1596050441497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596050441497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom" timestamp="1596063756522">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1596063756522" />
+    <state width="1238" height="187" key="GridCell.Tab.0.center" timestamp="1596063756520">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1596063756520" />
+    <state width="1238" height="187" key="GridCell.Tab.0.left" timestamp="1596063756519">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1596063756519" />
+    <state width="1238" height="187" key="GridCell.Tab.0.right" timestamp="1596063756520">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1596063756520" />
+    <state x="292" y="148" width="695" height="486" key="find.popup" timestamp="1596054821381">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="292" y="148" width="695" height="486" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1596054821381" />
+  </component>
+</project>
